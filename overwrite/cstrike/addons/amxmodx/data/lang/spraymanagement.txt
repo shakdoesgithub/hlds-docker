@@ -1,0 +1,58 @@
+[en]
+SPRAY_ENABLED_ONE = Custom Sprays!n are!t Enabled!g For You.
+SPRAY_DIS_ONE = Custom Sprays!n are!t Disabled!g For You.
+SPRAY_ENABLED_ADMIN = Custom Sprays!n are!t Enabled!g For Admins.
+SPRAY_BLOCKED = You Cannot!n Spray in this!t Server.
+SPRAY_DISABLED = Custom Sprays!n are!t Disabled.
+SPRAY_ENABLED = Custom Sprays!n are!t Enabled.
+SPRAY_DIST_UNITS = %s!n Sprayed!t %f!n units above the!g ground.
+SPRAY_RECHARGE = !nYour Spray will!g recharge!n in!t %i Secounds.
+
+[de]
+SPRAY_ENABLED_ONE = Eigene Spraylogos!n sind!t eingeschaltet!g fuer dich.
+SPRAY_DIS_ONE = Eigene Spraylogos!n sind!t ausgeschaltet!g fuer dich.
+SPRAY_ENABLED_ADMIN = Eigene Spraylogos!n sind!t eingeschaltet!g fuer Admins.
+SPRAY_BLOCKED = Du kannst keine!n Spraylogos nutzen auf diesem!t Server.
+SPRAY_DISABLED = Eigene Spraylogos!n sind!t ausgeschaltet.
+SPRAY_ENABLED = Eigene Spraylogos!n sind!t eingeschaltet.
+SPRAY_DIST_UNITS = %s!n spruehte!t %f!n Einheiten ueber dem!g Boden.
+SPRAY_RECHARGE = !nDein Spraylogo wird!g aufgeladen sein!n in!t %i Sekunden.
+
+[es]
+SPRAY_ENABLED_ONE = Los sprays personalizados!n estan!t activados!g para ti.
+SPRAY_DIS_ONE = Los sprays personalizados!n estan!t desactivados!g para ti.
+SPRAY_ENABLED_ADMIN = Los sprays personalizados!n estan!t activados!g para los admins.
+SPRAY_BLOCKED = No puedes!n usar el spray!t en este servidor.
+SPRAY_DISABLED = Los sprays personalizados!n estan!t desactivados.
+SPRAY_ENABLED = Los sprays personalizados!n estan!t activados.
+SPRAY_DIST_UNITS = %s!n Uso el spray!t %f!n unidades por encima del!g suelo.
+
+[tr]
+SPRAY_ENABLED_ONE = Ozel Spreyler!g Sizin Icin!n Etkin.
+SPRAY_DIS_ONE = Ozel Spreyler!g Sizin Icin!n Kapali.
+SPRAY_ENABLED_ADMIN = Ozel Sprey!g Sadece Adminler Icin!n Aktiftir!
+SPRAY_BLOCKED = Sizin Sprey Basmaniz Engelli!
+SPRAY_DISABLED = Ozel Spreyler!n Kapali!
+SPRAY_ENABLED = Ozel Spreyler!n Etkin!
+SPRAY_DIST_UNITS = %s!n Sprey %f!n adet!g puskurtulur.
+SPRAY_RECHARGE = !nYeni Sprey!t %i !nSaniye Sonra Puskurtebilirsiniz.
+
+[fr]
+SPRAY_ENABLED_ONE = Les tags personnalises!n sont!t active!g pour vous.
+SPRAY_DIS_ONE = Les tags personnalises!n sont!t desactives!g pour vous.
+SPRAY_ENABLED_ADMIN = Les tags personnalises!n sont!t actives!g pour les admins.
+SPRAY_BLOCKED = Vous ne pouvez pas!n taguer sur ce!t serveur.
+SPRAY_DISABLED = Les tags personnalises!n sont!t desactives.
+SPRAY_ENABLED = Les tags personnalises!n sont!t actives.
+SPRAY_DIST_UNITS = %s!n a tague!t %f!n fois sur le!g sol.
+SPRAY_RECHARGE = !nVotre tag va etre!g recharge!n dans!t %i secondes.
+
+[pl]
+SPRAY_ENABLED_ONE = Wlasne Spraye!n sa!t Wlaczone!g dla was.
+SPRAY_DIS_ONE = Wlasne Spray'e!n sa!t Wylaczone!g dla was.
+SPRAY_ENABLED_ADMIN = Wlasne Spray'e!n sa!t Wlaczone!g dla adminow.
+SPRAY_BLOCKED = Nie mozesz!n Spray'owac na!t Serwerze.
+SPRAY_DISABLED = Wlasne Spray'e!n sa!t Wylaczone.
+SPRAY_ENABLED = Wlasne Spray'e!n sa!t Wlaczone.
+SPRAY_DIST_UNITS = %s!n Zaspreyowal!t %f!n jednostek nad!g ziemia.
+SPRAY_RECHARGE = !nTwoj Spray zostanie!g zaladowany!n w!t %i Sekund.
