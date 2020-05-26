@@ -24,8 +24,6 @@ services:
       interval: 2s
       timeout: 20s
       retries: 10
-    networks:
-      - csApp
 
   hlds:
     build: .
@@ -63,9 +61,9 @@ services:
         "+log off",
         "+sv_lan 0",
       ]
-    networks:
-      - csApp
 
 networks:
-  csApp:
-    name: csApp
+ default:
+  external:
+   name: csApp
+
